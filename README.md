@@ -26,7 +26,8 @@ I use GitHub to build practical projects, strengthen my programming skills, and 
 
 A Python desktop application designed to organize research notes with SQLite storage, Markdown editing, live preview, and search functionality.
 
-**Technologies:** Python · PyQt6 · SQLite
+- **Technologies:** Python · PyQt6 · SQLite
+- [📂 View Project](https://github.com/mdshihabhossain726/research-paper-organizer)
 
 *Status: Prototype / in development.*
 
@@ -38,8 +39,7 @@ An interactive visual novel developed with Ren'Py that combines storytelling wit
 - 🛠️ **Tech Stack:** Ren'Py, Python
 - 💬 **Features:** Character dialogue, interactive choices, German learning screens, and save/load functionality.
 - 📸 **Screenshots:** Available in the project repository.
-- 🎬 **Demo:** [Watch Gameplay on YouTube](YOUR_YOUTUBE_LINK)
-- 📂 **Project:** [View Portfolio on GitHub](YOUR_GITHUB_REPOSITORY_LINK)
+- 📂 **Project:** [View Portfolio on GitHub](https://github.com/mdshihabhossain726/Ein-Neues-Leben-Portfolio)
 
 *Status: In Development*
 
