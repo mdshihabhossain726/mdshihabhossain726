@@ -40,6 +40,7 @@ A Python desktop application designed to organize research notes with SQLite sto
 ## 🤝 Connect With Me
 
 - GitHub: [@mdshihabhossain726](https://github.com/mdshihabhossain726)
+- Email: mdshihabhossain726@gmail.com
 
 ---
 
