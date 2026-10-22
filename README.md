@@ -1,4 +1,4 @@
-# Hi, I'm Shihab 👋
+# Hi, I'm Shihab
 
 ### Computer Science & Engineering Student | Aspiring AI & Data Science Researcher
 
