@@ -30,6 +30,19 @@ A Python desktop application designed to organize research notes with SQLite sto
 
 *Status: Prototype / in development.*
 
+### 🇩🇪 Ein Neues Leben — German Language Learning Visual Novel
+
+An interactive visual novel developed with Ren'Py that combines storytelling with German language learning.
+
+- 🎮 **Type:** Interactive Game / Educational Software
+- 🛠️ **Tech Stack:** Ren'Py, Python
+- 💬 **Features:** Character dialogue, interactive choices, German learning screens, and save/load functionality.
+- 📸 **Screenshots:** Available in the project repository.
+- 🎬 **Demo:** [Watch Gameplay on YouTube](YOUR_YOUTUBE_LINK)
+- 📂 **Project:** [View Portfolio on GitHub](YOUR_GITHUB_REPOSITORY_LINK)
+
+*Status: In Development*
+
 ## 📚 Current Focus
 
 - Improving programming and problem-solving skills
