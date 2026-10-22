@@ -27,7 +27,7 @@ I use GitHub to build practical projects, strengthen my programming skills, and 
 A Python desktop application designed to organize research notes with SQLite storage, Markdown editing, live preview, and search functionality.
 
 - **Technologies:** Python · PyQt6 · SQLite
-- [📂 View Project](https://github.com/mdshihabhossain726/research-paper-organizer)
+- 📂 **Project:** [View Project on Github](https://github.com/mdshihabhossain726/research-paper-organizer)
 
 *Status: Prototype / in development.*
 
