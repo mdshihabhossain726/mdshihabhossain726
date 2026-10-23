@@ -31,7 +31,7 @@ A Python desktop application designed to organize research notes with SQLite sto
 
 *Status: Prototype / in development.*
 
-### 🇩🇪 Ein Neues Leben — German Language Learning Visual Novel
+### Ein Neues Leben — German Language Learning Visual Novel
 
 An interactive visual novel developed with Ren'Py that combines storytelling with German language learning.
 
