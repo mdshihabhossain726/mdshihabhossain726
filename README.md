@@ -54,6 +54,7 @@ An interactive visual novel developed with Ren'Py that combines storytelling wit
 
 - GitHub: [@mdshihabhossain726](https://github.com/mdshihabhossain726)
 - Email: mdshihabhossain726@gmail.com
+- Linkedin: [Md Shihab Hossain](https://www.linkedin.com/in/mdshihabhossain726/).
 
 ---
 
