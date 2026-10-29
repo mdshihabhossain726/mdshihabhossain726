@@ -60,7 +60,7 @@ I use GitHub to build practical projects, strengthen my programming skills, and 
       <p>A visual novel that combines storytelling with German language learning, with character dialogue, interactive choices, learning screens, and save/load.</p>
       <p><b>Stack:</b> Ren'Py · Python</p>
       <p><i>Status: in development</i></p>
-      <p><a href="https://github.com/mdshihabhossain726/Ein-Neues-Leben-Portfolio">View portfolio →</a></p>
+      <p><a href="https://shihugames.itch.io/ein-neues-leben">Play on itch.io →</a> · <a href="https://github.com/mdshihabhossain726/Ein-Neues-Leben-Portfolio">Portfolio →</a></p>
     </td>
     <td width="33%" valign="top">
       <h3>💬 Shihu AI</h3>
