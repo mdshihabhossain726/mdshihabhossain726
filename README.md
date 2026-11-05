@@ -16,7 +16,7 @@
 
 ## 👋 About me
 
-I'm a **Computer Science and Engineering student** at Bangladesh University of Business and Technology (BUBT), interested in software development, Artificial Intelligence, Data Science, and academic research.
+I'm a **Computer Science and Engineering student** at Bangladesh University of Business and Technology [BUBT], interested in software development, Artificial Intelligence, Data Science, and academic research.
 
 I use GitHub to build practical projects, strengthen my programming skills, and document my learning journey. I'm open to learning, research collaboration, and suitable internship opportunities.
 
