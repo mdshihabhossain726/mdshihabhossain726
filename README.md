@@ -2,13 +2,21 @@
 
 <img src="assets/header.svg" alt="Md Shihab Hossain, CSE student and aspiring AI and Data Science researcher" width="100%">
 
+<a href="https://github.com/mdshihabhossain726">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=7C8CFF&center=true&vCenter=true&width=640&height=40&lines=Learning%2C+building%2C+and+exploring+research+one+step+at+a+time.;CSE+Student+%40+BUBT;Exploring+AI+%26+Data+Science;Building+practical+software+projects" alt="Typing animation" />
+</a>
+
 <br>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7c8cff?style=for-the-badge)](https://mdshihabhossain726.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7c8cff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mdshihabhossain726.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdshihabhossain726/)
 [![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdshihabhossain726@gmail.com)
 
-*Learning, building, and exploring research one step at a time.*
+<br>
+
+![Profile views](https://komarev.com/ghpvc/?username=mdshihabhossain726&label=Profile+views&color=7c8cff&style=flat-square)
+![Followers](https://img.shields.io/github/followers/mdshihabhossain726?label=Followers&style=flat-square&color=7c8cff&labelColor=0d1117)
+![Repos](https://img.shields.io/badge/Repos-12-7c8cff?style=flat-square&labelColor=0d1117)
 
 </div>
 
@@ -23,7 +31,7 @@ I use GitHub to build practical projects, strengthen my programming skills, and 
 ## 🔬 Research interests
 
 | | Area |
-| --- | --- |
+| :---: | :--- |
 | 🤖 | Artificial Intelligence and Machine Learning |
 | 📊 | Data Science and Data Analysis |
 | 🌍 | AI applications in real-world problems |
@@ -31,18 +39,26 @@ I use GitHub to build practical projects, strengthen my programming skills, and 
 
 ## 🛠️ Tech stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=flat-square&logo=qt&logoColor=white)
-![Ren'Py](https://img.shields.io/badge/Ren'Py-ff7f50?style=flat-square)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+</p>
 
-**Core concepts:** Object-Oriented Programming · Database Systems · Data Structures
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="PyQt6" />
+  <img src="https://img.shields.io/badge/Ren%27Py-FF7F50?style=for-the-badge" alt="Ren'Py" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
+
+**Core concepts:** `Object-Oriented Programming` · `Database Systems` · `Data Structures`
 
 ## 🚀 Featured projects
 
@@ -72,12 +88,29 @@ I use GitHub to build practical projects, strengthen my programming skills, and 
   </tr>
 </table>
 
+## 📊 GitHub stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=mdshihabhossain726&theme=tokyonight&hide_border=true&background=0D1117&ring=7C8CFF&fire=7C8CFF&currStreakLabel=7C8CFF" alt="GitHub streak" />
+
+<br><br>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mdshihabhossain726&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C8CFF&icon_color=7C8CFF" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshihabhossain726&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C8CFF" alt="Top languages" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mdshihabhossain726&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7C8CFF&line=7C8CFF&point_color=FFFFFF&area=true" alt="Contribution graph" width="100%" />
+
+</div>
+
 ## 🎯 Current focus
 
-- Improving programming and problem-solving skills
-- Building practical software projects
-- Exploring AI and Data Science research papers
-- Learning database design and software engineering
+- 🧠 Improving programming and problem-solving skills
+- 🛠️ Building practical software projects
+- 📄 Exploring AI and Data Science research papers
+- 🗄️ Learning database design and software engineering
 
 ## 🤝 Let's connect
 
@@ -89,6 +122,10 @@ I use GitHub to build practical projects, strengthen my programming skills, and 
 
 <div align="center">
 
+*"I build, ship, and figure it out."*
+
 ⭐ Thanks for stopping by!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:7c8cff&height=100&section=footer" width="100%" alt="" />
 
 </div>
