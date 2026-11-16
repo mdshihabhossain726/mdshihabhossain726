@@ -3,7 +3,7 @@
 <img src="assets/header.svg" alt="Md Shihab Hossain, CSE student and aspiring AI and Data Science researcher" width="100%">
 
 <a href="https://github.com/mdshihabhossain726">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=7C8CFF&center=true&vCenter=true&width=640&height=40&lines=Learning%2C+building%2C+and+exploring+research+one+step+at+a+time.;CSE+Student+%40+BUBT;Exploring+AI+%26+Data+Science;Building+practical+software+projects" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=1200&color=7C8CFF&center=true&vCenter=true&width=900&height=45&lines=Learning%2C+building%2C+and+exploring+research+one+step+at+a+time;CSE+Student+%40+BUBT;Exploring+AI+%26+Data+Science;Building+practical+software+projects" alt="Typing animation" />
 </a>
 
 <br>
@@ -16,7 +16,6 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=mdshihabhossain726&label=Profile+views&color=7c8cff&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/mdshihabhossain726?label=Followers&style=flat-square&color=7c8cff&labelColor=0d1117)
-![Repos](https://img.shields.io/badge/Repos-12-7c8cff?style=flat-square&labelColor=0d1117)
 
 </div>
 
@@ -24,7 +23,7 @@
 
 ## 👋 About me
 
-I'm a **Computer Science and Engineering student** at Bangladesh University of Business and Technology [BUBT], interested in software development, Artificial Intelligence, Data Science, and academic research.
+I'm a **Computer Science and Engineering student** at Bangladesh University of Business and Technology (BUBT), interested in software development, Artificial Intelligence, Data Science, and academic research.
 
 I use GitHub to build practical projects, strengthen my programming skills, and document my learning journey. I'm open to learning, research collaboration, and suitable internship opportunities.
 
@@ -96,8 +95,8 @@ I use GitHub to build practical projects, strengthen my programming skills, and 
 
 <br><br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mdshihabhossain726&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C8CFF&icon_color=7C8CFF" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdshihabhossain726&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C8CFF" alt="Top languages" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mdshihabhossain726&theme=tokyonight" alt="GitHub stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mdshihabhossain726&theme=tokyonight" alt="Top languages" />
 
 <br><br>
 
